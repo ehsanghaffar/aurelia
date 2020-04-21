@@ -55,9 +55,9 @@
     "@aurelia/validation": "0.6.0"
   },
   "devDependencies": {
-    "@types/mocha": "^5.2.7",
+    "@types/mocha": "^7.0.2",
     "@types/node": "^12.12.21",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.2.2",
     "mocha": "~6.1.4",
     "tslib": "^1.11.1",
     "typescript": "^3.8.3"

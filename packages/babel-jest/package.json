@@ -39,8 +39,8 @@
     "babel-jest": "^25.3.0"
   },
   "devDependencies": {
-    "@jest/transform": "^25.3.0",
-    "@jest/types": "^25.3.0",
+    "@jest/transform": "^25.4.0",
+    "@jest/types": "^25.4.0",
     "@types/node": "^12.12.21",
     "tslib": "^1.11.1",
     "typescript": "^3.8.3"
